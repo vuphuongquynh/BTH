@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VPQ_BT\\BT20_02\\BT20_02.csproj": {}
+    "d:\\VPQ_BT\\BT20_02\\BT20_02.csproj": {}
   },
   "projects": {
-    "D:\\VPQ_BT\\BT20_02\\BT20_02.csproj": {
+    "d:\\VPQ_BT\\BT20_02\\BT20_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VPQ_BT\\BT20_02\\BT20_02.csproj",
+        "projectUniqueName": "d:\\VPQ_BT\\BT20_02\\BT20_02.csproj",
         "projectName": "BT20_02",
-        "projectPath": "D:\\VPQ_BT\\BT20_02\\BT20_02.csproj",
+        "projectPath": "d:\\VPQ_BT\\BT20_02\\BT20_02.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\VPQ_BT\\BT20_02\\obj\\",
+        "outputPath": "d:\\VPQ_BT\\BT20_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
